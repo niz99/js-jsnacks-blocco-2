@@ -7,4 +7,4 @@ for(i = 0; listaUno.length != listaDue.length; i++) {
     console.log(listaDue);
 }
 
-document.getElementById("container").innerHTML = `<h1>Finalmente i due array hanno lo stesso numero di elementi</h1>`
+document.getElementById("container").innerHTML = `<h1>Finalmente i due array hanno lo stesso numero di elementi</h1>`;
